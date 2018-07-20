@@ -24,5 +24,5 @@ function iLoveTheBeatles(n){
   do{
     emVar.push('I love the Beatles!')
     n++
-  } while( i =0)
+  } while(n < 15)
 }
