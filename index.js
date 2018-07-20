@@ -22,6 +22,6 @@ function johnLennonFacts(array){ //facts
 function iLoveTheBeatles(n){
   var emVar = []
   do{
-    
+    emVar.push()
   } while( i =0)
 }
