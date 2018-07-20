@@ -14,7 +14,7 @@ function johnLennonFacts(array){ //facts
   var i =0
   while(i < array.length){
     array[i] = `${array[i]}!!!`
-    i +=i
+    i +=1
    
   }
   return array;
