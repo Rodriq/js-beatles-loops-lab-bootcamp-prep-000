@@ -19,5 +19,8 @@ function johnLennonFacts(array){ //facts
   return array;
 }
 function iLoveTheBeatles(n){
-  
+  var emVar = []
+  do{
+    
+  } while()
 }
